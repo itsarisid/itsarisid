@@ -28,7 +28,7 @@
   <img alt="JQuery" src="https://img.shields.io/badge/-JQuery-007ACC?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-764ABC?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/-.NET-764ABC?style=flat-square&logo=.net&logoColor=white" />
-  <img alt="Electron.js" src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" />
+  <img alt="Electron.js" src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white" />
   <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white" />
   <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=Azure%20DevOps&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />
