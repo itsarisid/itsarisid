@@ -8,6 +8,8 @@
 - 🏆 I'm an avid improver. Continuously learning how to make the world better.
 - Originally from **Chandigarh** IN, now based in **Doha** QA
 
+###
+
 ## Things I code with
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -151,6 +153,29 @@
 
 ###
 
+<div align="left">
+  <a href="https://www.instagram.com/itsarisid/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@itsarisid" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube logo"  />
+  </a>
+  <a href="www.linkedin.com/in/itsarisid" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/7978583/sajid-khan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=flat" height="35" alt="stackoverflow logo"  />
+  </a>
+  <a href="@itsarisid" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="35" alt="telegram logo"  />
+  </a>
+  <a href="@itsarisid" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="35" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsarisid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsarisid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -158,9 +183,3 @@
 
 ###
 
-## Some of my Github Stats
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=itsarisid&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/pedes/github-readme-stats)
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=itsarisid&layout=compact)](https://github.com/itsarisid/github-readme-stats)
-
-
-<!--![Pedes's github stats](https://github-readme-stats.vercel.app/api?username=itsarisid) -->
