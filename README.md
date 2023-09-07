@@ -151,7 +151,7 @@
 </div>
 
 ###
-
+## Contact me
 <div align="left">
   <a href="https://www.instagram.com/itsarisid/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
@@ -179,6 +179,8 @@
 
 ###
 
+## My Stats
+
 ###
 
 <div align="center">
@@ -187,7 +189,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsarisid" alt="itsarisid" /></a>
 </div>
 
