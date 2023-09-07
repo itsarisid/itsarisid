@@ -1,7 +1,6 @@
 # Hello there 👋, I'm Sajid Khan! 
 
-**Get in touch:**
-[![Linkedin Badge](https://img.shields.io/badge/-Sajid_Khan-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/im-sajid-khan/)](https://www.linkedin.com/in/im-sajid-khan/)
+###
 
 - 🤓 I'm Full Stack .Net Developer
 - 💬 Let's talk about Software Architecture,.Net, JavaScript, Security, Development Patterns.
@@ -180,6 +179,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/itsarisid/itsarisid/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=itsarisid&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
