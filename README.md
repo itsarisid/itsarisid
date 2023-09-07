@@ -180,10 +180,6 @@
 
 ###
 
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/itsarisid/itsarisid/output/snake.svg" alt="Snake animation" />
 
 ###
