@@ -2,7 +2,7 @@
 
 ###
 
-- 🤓 I'm Full Stack .Net Developer
+- 🤓 I'm Software Engineer
 - 💬 Let's talk about Software Architecture,.Net, JavaScript, Security, Development Patterns.
 - 🏆 I'm an avid improver. Continuously learning how to make the world better.
 - Originally from **Chandigarh** IN, now based in **Doha** QA
