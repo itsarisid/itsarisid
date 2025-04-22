@@ -187,6 +187,8 @@
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=itsarisid&theme=dark&show_icons=true&count_private=true">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsarisid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</td>
+<td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=itsarisid&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
 ##
