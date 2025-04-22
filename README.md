@@ -212,3 +212,7 @@
 </picture>
 
 ###
+
+###
+[![Sajid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsarisid)](https://github.com/itsarisid/github-readme-activity-graph)
+###
