@@ -214,5 +214,5 @@
 ###
 
 ###
-[![Sajid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsarisid)](https://github.com/itsarisid/github-readme-activity-graph)
+[![Sajid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsarisid&theme=github-compact)](https://github.com/itsarisid/github-readme-activity-graph)
 ###
