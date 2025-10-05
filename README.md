@@ -2,10 +2,10 @@
 
 ###
 
-- 🤓 I'm Software Engineer
-- 💬 Let's talk about Software Architecture,.Net, JavaScript, Security, Development Patterns.
-- 🏆 I'm an avid improver. Continuously learning how to make the world better.
-- Originally from **Chandigarh** IN, now based in **Doha** QA
+For almost a decade now, I’ve been helping law enforcement agencies operate more effectively and safely by creating smart, secure, and performance-driven software. 
+Real-world uses that most excite me include using AI for data-backed decisions plus report and workflow automation. 
+I work to build some AI solutions for use in high-stakes environments. 
+Accountability along with trust including innovation all matter most in this work.
 
 ###
 
