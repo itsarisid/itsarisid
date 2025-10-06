@@ -174,7 +174,8 @@ Accountability along with trust including innovation all matter most in this wor
 
 ###
 
-![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
+
 ###
 
 <div align="center">
