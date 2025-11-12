@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=7DF74E&width=435&lines=Hello%2C+it's+Sajid+Khan;Tech+Lead+;A++Senior+Full+Stack+Developer;And+GenAI%2C+DevSecOps+and+.Net)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Schoolbell&size=25&pause=300&color=5FF71A&center=true&vCenter=true&width=435&lines=Architect;Tech+Lead;NFR+Specialist;Software+Engineer+%7C+GenAI+%7C+DevSecOps+%7C+.NET)](https://git.io/typing-svg)
 
 ###
 
