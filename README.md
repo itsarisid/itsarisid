@@ -7,8 +7,6 @@ Real-world uses that most excite me include using AI for data-backed decisions p
 I work to build some AI solutions for use in high-stakes environments. 
 Accountability along with trust including innovation all matter most in this work.
 
-<div dir="rtl">![GitHub Views](https://komarev.com/ghpvc/?username=itsarisid&abbreviated=true)</div>
-
 ###
 
 ## Things I code with
